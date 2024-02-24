@@ -1,7 +1,3 @@
 # essai-branches
 
-modif sur branche main non protégée
-
-modif sur branch dev non protégée
-
-essai de modif sur main protégée
+Tentative de push direct sur la branche main protégée (mais sans l'option obligeant les administrateurs)
